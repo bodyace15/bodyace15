@@ -35,6 +35,10 @@
 <img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white&style=for-the-badge" />
 </div>
 
+## 🏆 My achievements on GitHub
+![trophy](https://github-profile-trophy.vercel.app/?username=Sorok-Dva&theme=darkhub&rank=-C&column=-1&no-bg=true&no-frame=true)
+
+
 
  <!-- Pac-Man Contribution Graph -->
   <picture>
