@@ -36,6 +36,7 @@
 </div>
 
 ## 🏆 My achievements on GitHub
+![trophy](https://github-profile-trophy.vercel.app/?username=Sorok-Dva&theme=darkhub&rank=-C&column=-1&no-bg=true&no-frame=true)
 
  <!-- Pac-Man Contribution Graph -->
   <picture>
